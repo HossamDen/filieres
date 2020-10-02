@@ -1,5 +1,5 @@
 {
-    "Filieres": {
+    "Filieres": [{
         "SMA": {
             "S2": {"title":"a", "code":"154"},
             "S4": {"title":"b", "code":"354"},
@@ -11,6 +11,8 @@
             "S6": {"title":"xc", "code":"586"}
         }
     }
+    ]
 }
+
 
 
