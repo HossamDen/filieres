@@ -1,0 +1,724 @@
+[
+    [
+       {
+          "filière":"SMA",
+          "CODE module":"PFA12104",
+          "intitulé module":"Analyse 2: Intégration",
+          "S":"S2"
+       },
+       {
+          "filière":"SMA",
+          "CODE module":"PFA12204",
+          "intitulé module":"Analyse3",
+          "S":"S2"
+       },
+       {
+          "filière":"SMA",
+          "CODE module":"PFA12304",
+          "intitulé module":"ALGEBRE 3",
+          "S":"S2"
+       },
+       {
+          "filière":"SMA",
+          "CODE module":"PFA12404",
+          "intitulé module":"Physique 3",
+          "S":"S2"
+       },
+       {
+          "filière":"SMA",
+          "CODE module":"PFA12504",
+          "intitulé module":"Physique 4 : Optique 1",
+          "S":"S2"
+       },
+       {
+          "filière":"SMA",
+          "CODE module":"PFA12604",
+          "intitulé module":"Informatique 2",
+          "S":"S2"
+       },
+       {
+          "filière":"SMA",
+          "CODE module":"PFA12704",
+          "intitulé module":"Langue et Terminologie II",
+          "S":"S2"
+       },
+       {
+          "filière":"SMA",
+          "CODE module":"PFA24104",
+          "intitulé module":"Analyse 6",
+          "S":"S4"
+       },
+       {
+          "filière":"SMA",
+          "CODE module":"PFA24204",
+          "intitulé module":"ALGEBRE 5",
+          "S":"S4"
+       },
+       {
+          "filière":"SMA",
+          "CODE module":"PFA24304",
+          "intitulé module":"ALGEBRE 6",
+          "S":"S4"
+       },
+       {
+          "filière":"SMA",
+          "CODE module":"PFA24404",
+          "intitulé module":"Analyse Numérique 1",
+          "S":"S4"
+       },
+       {
+          "filière":"SMA",
+          "CODE module":"PFA24504",
+          "intitulé module":"Physique 6 ",
+          "S":"S4"
+       },
+       {
+          "filière":"SMA",
+          "CODE module":"PFA24604",
+          "intitulé module":"Informatique 4",
+          "S":"S4"
+       },
+       {
+          "filière":"SMA",
+          "CODE module":"PFA36104",
+          "intitulé module":"ANALYSE FONCTIONNELLE",
+          "S":"S6"
+       },
+       {
+          "filière":"SMA",
+          "CODE module":"PFA36204",
+          "intitulé module":"ALGEBRE COMMUTATIVE",
+          "S":"S6"
+       },
+       {
+          "filière":"SMA",
+          "CODE module":"PFA36304",
+          "intitulé module":"ANALYSE  CONVEXE ET OPTI",
+          "S":"S6"
+       },
+       {
+          "filière":"SMA",
+          "CODE module":"PFA36404",
+          "intitulé module":"Introduction au calcul",
+          "S":"S6"
+       },
+       {
+          "filière":"SMA",
+          "CODE module":"PFA36504",
+          "intitulé module":"Projet tutoré 1",
+          "S":"S6"
+       },
+       {
+          "filière":"SMA",
+          "CODE module":"PFA36604",
+          "intitulé module":"Projet tutoré 2",
+          "S":"S6"
+       },
+       {
+          "filière":"SMI",
+          "CODE module":"PFA12104",
+          "intitulé module":"Analyse 2: Intégration",
+          "S":"S2"
+       },
+       {
+          "filière":"SMI",
+          "CODE module":"PFA12204",
+          "intitulé module":"Analyse3",
+          "S":"S2"
+       },
+       {
+          "filière":"SMI",
+          "CODE module":"PFA12304",
+          "intitulé module":"ALGEBRE 3",
+          "S":"S2"
+       },
+       {
+          "filière":"SMI",
+          "CODE module":"PFA12404",
+          "intitulé module":"Physique 3",
+          "S":"S2"
+       },
+       {
+          "filière":"SMI",
+          "CODE module":"PFA12504",
+          "intitulé module":"Physique 4 : Optique 1",
+          "S":"S2"
+       },
+       {
+          "filière":"SMI",
+          "CODE module":"PFA12604",
+          "intitulé module":"Informatique 2",
+          "S":"S2"
+       },
+       {
+          "filière":"SMI",
+          "CODE module":"PFA12704",
+          "intitulé module":"Langue et Terminologie II",
+          "S":"S2"
+       },
+       {
+          "filière":"SMI",
+          "CODE module":"PFI24104",
+          "intitulé module":"PROGRAMMATION II",
+          "S":"S4"
+       },
+       {
+          "filière":"SMI",
+          "CODE module":"PFI24204",
+          "intitulé module":"STRUCTURES DE DONNEES",
+          "S":"S4"
+       },
+       {
+          "filière":"SMI",
+          "CODE module":"PFI24304",
+          "intitulé module":"SYSTEME D’EXPLOITATION II",
+          "S":"S4"
+       },
+       {
+          "filière":"SMI",
+          "CODE module":"PFI24404",
+          "intitulé module":"ANALYSE NUMERIQUE",
+          "S":"S4"
+       },
+       {
+          "filière":"SMI",
+          "CODE module":"PFI24504",
+          "intitulé module":"ARCHITECTURE ORDINATEURS",
+          "S":"S4"
+       },
+       {
+          "filière":"SMI",
+          "CODE module":"PFI24604",
+          "intitulé module":"ELECTROMAGNETISME",
+          "S":"S4"
+       },
+       {
+          "filière":"SMI",
+          "CODE module":"PFI36104",
+          "intitulé module":"BASE DE DONNEES AVANCEES",
+          "S":"S6"
+       },
+       {
+          "filière":"SMI",
+          "CODE module":"PFI36204",
+          "intitulé module":"JAVA",
+          "S":"S6"
+       },
+       {
+          "filière":"SMI",
+          "CODE module":"PFI36304",
+          "intitulé module":"PROGRAMMATION MOBILE",
+          "S":"S6"
+       },
+       {
+          "filière":"SMI",
+          "CODE module":"PFI36404",
+          "intitulé module":"JAVA  AVANCEE",
+          "S":"S6"
+       },
+       {
+          "filière":"SMI",
+          "CODE module":"PFI36504",
+          "intitulé module":"Projet tutoré 1",
+          "S":"S6"
+       },
+       {
+          "filière":"SMI",
+          "CODE module":"PFI36604",
+          "intitulé module":"Projet tutoré 1",
+          "S":"S6"
+       },
+       {
+          "filière":"SVI",
+          "CODE module":"PFU12104",
+          "intitulé module":"Biologie des Org. Animaux",
+          "S":"S2"
+       },
+       {
+          "filière":"SVI",
+          "CODE module":"PFU12204",
+          "intitulé module":"Biologie des Org Végétaux",
+          "S":"S2"
+       },
+       {
+          "filière":"SVI",
+          "CODE module":"PFU12304",
+          "intitulé module":"Géodynamique externe",
+          "S":"S2"
+       },
+       {
+          "filière":"SVI",
+          "CODE module":"PFU12404",
+          "intitulé module":"Géodynamique interne",
+          "S":"S2"
+       },
+       {
+          "filière":"SVI",
+          "CODE module":"PFU12504",
+          "intitulé module":"Physique II (Méc/Elec)",
+          "S":"S2"
+       },
+       {
+          "filière":"SVI",
+          "CODE module":"PFU12604",
+          "intitulé module":"Chimie II ch. Organique I",
+          "S":"S2"
+       },
+       {
+          "filière":"SVI",
+          "CODE module":"PFU12704",
+          "intitulé module":"Langue et Terminologie II",
+          "S":"S2"
+       },
+       {
+          "filière":"SVI",
+          "CODE module":"PFV24104",
+          "intitulé module":"Enzymo Bioch Métabolique",
+          "S":"S4"
+       },
+       {
+          "filière":"SVI",
+          "CODE module":"PFV24204",
+          "intitulé module":"Génétique I",
+          "S":"S4"
+       },
+       {
+          "filière":"SVI",
+          "CODE module":"PFV24304",
+          "intitulé module":"Faunistique",
+          "S":"S4"
+       },
+       {
+          "filière":"SVI",
+          "CODE module":"PFV24404",
+          "intitulé module":"Floristique",
+          "S":"S4"
+       },
+       {
+          "filière":"SVI",
+          "CODE module":"PFV24504",
+          "intitulé module":"Physiologie Animale",
+          "S":"S4"
+       },
+       {
+          "filière":"SVI",
+          "CODE module":"PFV24604",
+          "intitulé module":"Physiologie Végétale",
+          "S":"S4"
+       },
+       {
+          "filière":"SVI",
+          "CODE module":"PFV36104",
+          "intitulé module":"Environn et législations",
+          "S":"S6"
+       },
+       {
+          "filière":"SVI",
+          "CODE module":"PFV36204",
+          "intitulé module":"Biotechno de l'Environnem",
+          "S":"S6"
+       },
+       {
+          "filière":"SVI",
+          "CODE module":"PFV36304",
+          "intitulé module":"Eco-toxicologie et impact",
+          "S":"S6"
+       },
+       {
+          "filière":"SVI",
+          "CODE module":"PFV36404",
+          "intitulé module":"Techn. d'analy. et biosta",
+          "S":"S6"
+       },
+       {
+          "filière":"SVI",
+          "CODE module":"PFV36504",
+          "intitulé module":"Projet tutoré 1",
+          "S":"S6"
+       },
+       {
+          "filière":"SVI",
+          "CODE module":"PFV36604",
+          "intitulé module":"projet tutoré 2",
+          "S":"S6"
+       },
+       {
+          "filière":"SMP",
+          "CODE module":"PFC12104",
+          "intitulé module":"Electrostat Electrocinet",
+          "S":"S2"
+       },
+       {
+          "filière":"SMP",
+          "CODE module":"PFC12204",
+          "intitulé module":"Optique géométrique",
+          "S":"S2"
+       },
+       {
+          "filière":"SMP",
+          "CODE module":"PFC12304",
+          "intitulé module":"Liaisons chimiques",
+          "S":"S2"
+       },
+       {
+          "filière":"SMP",
+          "CODE module":"PFC12404",
+          "intitulé module":"Chimie des solutions",
+          "S":"S2"
+       },
+       {
+          "filière":"SMP",
+          "CODE module":"PFC12504",
+          "intitulé module":"Analyse 2",
+          "S":"S2"
+       },
+       {
+          "filière":"SMP",
+          "CODE module":"PFC12604",
+          "intitulé module":"Algèbre 2",
+          "S":"S2"
+       },
+       {
+          "filière":"SMP",
+          "CODE module":"PFC12704",
+          "intitulé module":"Langue et Terminologie II",
+          "S":"S2"
+       },
+       {
+          "filière":"SMP",
+          "CODE module":"PFP24104",
+          "intitulé module":"Electronique de base",
+          "S":"S4"
+       },
+       {
+          "filière":"SMP",
+          "CODE module":"PFP24204",
+          "intitulé module":"Optique physique",
+          "S":"S4"
+       },
+       {
+          "filière":"SMP",
+          "CODE module":"PFP24304",
+          "intitulé module":"Electricité 3",
+          "S":"S4"
+       },
+       {
+          "filière":"SMP",
+          "CODE module":"PFP24404",
+          "intitulé module":"Mécanique quantique",
+          "S":"S4"
+       },
+       {
+          "filière":"SMP",
+          "CODE module":"PFP24504",
+          "intitulé module":"Cris géomét cristalloch",
+          "S":"S4"
+       },
+       {
+          "filière":"SMP",
+          "CODE module":"PFP24604",
+          "intitulé module":"Informatique",
+          "S":"S4"
+       },
+       {
+          "filière":"SMP",
+          "CODE module":"PFP36104",
+          "intitulé module":"Capt phys concent solaire",
+          "S":"S6"
+       },
+       {
+          "filière":"SMP",
+          "CODE module":"PFP36204",
+          "intitulé module":"Energie et écha rayon the",
+          "S":"S6"
+       },
+       {
+          "filière":"SMP",
+          "CODE module":"PFP36304",
+          "intitulé module":"PT 1 (mémoire)",
+          "S":"S6"
+       },
+       {
+          "filière":"SMP",
+          "CODE module":"PFP36404",
+          "intitulé module":"PT 2 (Encadrement techni)",
+          "S":"S6"
+       },
+       {
+          "filière":"SMP",
+          "CODE module":"PFP36504",
+          "intitulé module":"Semi-conduc énergi photov",
+          "S":"S6"
+       },
+       {
+          "filière":"SMP",
+          "CODE module":"PFP36604",
+          "intitulé module":"Structur et mécan charp",
+          "S":"S6"
+       },
+       {
+          "filière":"SMC",
+          "CODE module":"PFC12104",
+          "intitulé module":"Electrostat Electrocinet",
+          "S":"S2"
+       },
+       {
+          "filière":"SMC",
+          "CODE module":"PFC12204",
+          "intitulé module":"Optique géométrique",
+          "S":"S2"
+       },
+       {
+          "filière":"SMC",
+          "CODE module":"PFC12304",
+          "intitulé module":"Liaisons chimiques",
+          "S":"S2"
+       },
+       {
+          "filière":"SMC",
+          "CODE module":"PFC12404",
+          "intitulé module":"Chimie des solutions",
+          "S":"S2"
+       },
+       {
+          "filière":"SMC",
+          "CODE module":"PFC12504",
+          "intitulé module":"Analyse 2",
+          "S":"S2"
+       },
+       {
+          "filière":"SMC",
+          "CODE module":"PFC12604",
+          "intitulé module":"Algèbre 2",
+          "S":"S2"
+       },
+       {
+          "filière":"SMC",
+          "CODE module":"PFC12704",
+          "intitulé module":"Langue et Terminologie II",
+          "S":"S2"
+       },
+       {
+          "filière":"SMC",
+          "CODE module":"PFC24104",
+          "intitulé module":"Hydrocarb et fonc monoval",
+          "S":"S4"
+       },
+       {
+          "filière":"SMC",
+          "CODE module":"PFC24204",
+          "intitulé module":"Cri géom et cristalloch",
+          "S":"S4"
+       },
+       {
+          "filière":"SMC",
+          "CODE module":"PFC24304",
+          "intitulé module":"Thermodynamique chimique",
+          "S":"S4"
+       },
+       {
+          "filière":"SMC",
+          "CODE module":"PFC24404",
+          "intitulé module":"Mécanique  quantique",
+          "S":"S4"
+       },
+       {
+          "filière":"SMC",
+          "CODE module":"PFC24504",
+          "intitulé module":"Informatique",
+          "S":"S4"
+       },
+       {
+          "filière":"SMC",
+          "CODE module":"PFC24604",
+          "intitulé module":"Probabilités Statistiques",
+          "S":"S4"
+       },
+       {
+          "filière":"SMC",
+          "CODE module":"PFC36104",
+          "intitulé module":"Chimie Industrielle",
+          "S":"S6"
+       },
+       {
+          "filière":"SMC",
+          "CODE module":"PFC36204",
+          "intitulé module":"Chimie descriptive I",
+          "S":"S6"
+       },
+       {
+          "filière":"SMC",
+          "CODE module":"PFC36304",
+          "intitulé module":"grand class des réact org",
+          "S":"S6"
+       },
+       {
+          "filière":"SMC",
+          "CODE module":"PFC36404",
+          "intitulé module":"Method d'analyse chimique",
+          "S":"S6"
+       },
+       {
+          "filière":"SMC",
+          "CODE module":"PFC36504",
+          "intitulé module":"PT Encadrement technique",
+          "S":"S6"
+       },
+       {
+          "filière":"SMC",
+          "CODE module":"PFC36604",
+          "intitulé module":"PT (Mémoire)",
+          "S":"S6"
+       },
+       {
+          "filière":"E_ARABES",
+          "CODE module":"PFB12104",
+          "intitulé module":"Grammaire 2",
+          "S":"S2"
+       },
+       {
+          "filière":"E_ARABES",
+          "CODE module":"PFB12204",
+          "intitulé module":"philologie",
+          "S":"S2"
+       },
+       {
+          "filière":"E_ARABES",
+          "CODE module":"PFB12304",
+          "intitulé module":"Poésie Ancienne",
+          "S":"S2"
+       },
+       {
+          "filière":"E_ARABES",
+          "CODE module":"PFB12404",
+          "intitulé module":"Poésie Moderne",
+          "S":"S2"
+       },
+       {
+          "filière":"E_ARABES",
+          "CODE module":"PFB12504",
+          "intitulé module":"Phonitique",
+          "S":"S2"
+       },
+       {
+          "filière":"E_ARABES",
+          "CODE module":"PFB12604",
+          "intitulé module":"Philosophie",
+          "S":"S2"
+       },
+       {
+          "filière":"E_ARABES",
+          "CODE module":"PFB12704",
+          "intitulé module":"Langues",
+          "S":"S2"
+       },
+       {
+          "filière":"E_ARABES",
+          "CODE module":"PFB24104",
+          "intitulé module":"Morphologie",
+          "S":"S4"
+       },
+       {
+          "filière":"E_ARABES",
+          "CODE module":"PFB24204",
+          "intitulé module":"Syntaxe",
+          "S":"S4"
+       },
+       {
+          "filière":"E_ARABES",
+          "CODE module":"PFB24304",
+          "intitulé module":"Litté marocaine et And",
+          "S":"S4"
+       },
+       {
+          "filière":"E_ARABES",
+          "CODE module":"PFB24404",
+          "intitulé module":"Théatre",
+          "S":"S4"
+       },
+       {
+          "filière":"E_ARABES",
+          "CODE module":"PFB24504",
+          "intitulé module":"Théo de critique moderne",
+          "S":"S4"
+       },
+       {
+          "filière":"E_ARABES",
+          "CODE module":"PFB24604",
+          "intitulé module":"Semantique",
+          "S":"S4"
+       },
+       {
+          "filière":"E_ARABES_LT",
+          "CODE module":"PFB36104",
+          "intitulé module":"Simiologie",
+          "S":"S6"
+       },
+       {
+          "filière":"E_ARABES_LT",
+          "CODE module":"PFB36204",
+          "intitulé module":"PFE1",
+          "S":"S6"
+       },
+       {
+          "filière":"E_ARABES_LT",
+          "CODE module":"PFB36304",
+          "intitulé module":"Critique moderne",
+          "S":"S6"
+       },
+       {
+          "filière":"E_ARABES_LT",
+          "CODE module":"PFB36404",
+          "intitulé module":"PFE2",
+          "S":"S6"
+       },
+       {
+          "filière":"E_ARABES_LT",
+          "CODE module":"PFB36504",
+          "intitulé module":"Logique",
+          "S":"S6"
+       },
+       {
+          "filière":"E_ARABES_LT",
+          "CODE module":"PFB36604",
+          "intitulé module":"Théo de la critique moder",
+          "S":"S6"
+       },
+       {
+          "filière":"E_ARABES_LING",
+          "CODE module":"PFL36104",
+          "intitulé module":"PFE1",
+          "S":"S6"
+       },
+       {
+          "filière":"E_ARABES_LING",
+          "CODE module":"PFL36204",
+          "intitulé module":"PFE2",
+          "S":"S6"
+       },
+       {
+          "filière":"E_ARABES_LING",
+          "CODE module":"PFL36304",
+          "intitulé module":"Philosophie la langue",
+          "S":"S6"
+       },
+       {
+          "filière":"E_ARABES_LING",
+          "CODE module":"PFL36404",
+          "intitulé module":"Pragmatique",
+          "S":"S6"
+       },
+       {
+          "filière":"E_ARABES_LING",
+          "CODE module":"PFL36504",
+          "intitulé module":"Simiologie",
+          "S":"S6"
+       },
+       {
+          "filière":"E_ARABES_LING",
+          "CODE module":"PFL36604",
+          "intitulé module":"Terminologie",
+          "S":"S6"
+       }
+    ]
+ ]
